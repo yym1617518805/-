@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\16175\source\repos\jizu\jizu\FileName.cpp(29,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16175\source\repos\jizu\jizu\FileName.cpp(46,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  jizu.vcxproj -> C:\Users\16175\source\repos\jizu\x64\Debug\jizu.exe
